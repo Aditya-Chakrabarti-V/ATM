@@ -82,7 +82,7 @@ int main(){
 				
 			   }
 		     }
-		    else{printf("				Enter a valid card number greater than 10 digits (%d)\n\n\n\n", lengthcheck(cn));}
+		    else{printf("				Enter a valid 10 digit card number (%d)\n\n\n\n", lengthcheck(cn));}
 		
 	  }
 
